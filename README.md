@@ -12,7 +12,9 @@ Although data such as attendance, online activity, and parent feedback are colle
 - Understand how demographic or behavioral factors affect learning.
 - Use interaction data to predict academic success or risk of failure.
 
+
 ## Objectives
+
 This project aims to:
 - Evaluate overall student performance levels (High, Medium, Low).
 - Identify key behavioral factors (attendance, participation, resource use) influencing performance.
@@ -20,13 +22,16 @@ This project aims to:
 - Predict student performance category using learning behavior metrics.
 - Recommend strategies to improve engagement and academic success.
 
+
 ## Tools Used
 - Power BI
 - Excel
 
+
 # Key Findings and Observations
 
 ## Observation 1
+
 Student performance leveL
 - Medium (211)
 - High (142)
@@ -34,7 +39,9 @@ Student performance leveL
 
 The distribution shows that most students fall within the medium performance category, which suggests that the majority of students demonstrate average academic performance, with fewer students achieving either very high or very low outcomes.
 
+
 ## Observation 2
+
 Student participation metrics
 - Good (47,650)
 - Bad (21,881)
@@ -43,24 +50,31 @@ Student participation metrics
 The participation metric analysis shows that students with higher involvement in discussions, raised hands, and visited resources recorded significantly more “Good” outcomes than “Bad” outcomes. In many cases, the number of good results was nearly double the bad results, suggesting a strong positive relationship between student participation and academic performance. Among all participation metrics, visited resources recorded the highest, with a total of 18,818, suggesting that frequent access to learning materials and educational resources plays a major role in improving student performance.
 
 ## Observation 3
+
 Gender and nationality influence on student achievements
+
 ## Male Student
 - 130 Bad
 - 175 Good
+
 ## Female Student
 - 58 Bad
 - 117 Good
+
+
 The gender analysis shows that male and female students recorded more good outcomes than bad outcomes. Although the male students had a higher total number of good outcomes, female students showed a stronger performance ratio, as did their good results. This suggests that female students demonstrate relatively better academic performance overall.
 
 
 The nationality analysis reveals noticeable differences in student performance across countries. Students from Kuwait (KW) recorded almost equal numbers of good and bad outcomes, with 89 good and 90 bad results, suggesting a balanced but inconsistent academic performance. In contrast, students from Jordan showed stronger academic outcomes, with 106 good results compared to 66 bad results, indicating relatively better overall performance. Meanwhile, students from Venezuela recorded the least representation in the dataset, with only 1 good result and no bad results, making it difficult to draw meaningful conclusions due to the very small sample size.
 
 ## Observation 4
+
 Attendance (Student absence days) influence to performance outcomes
 
 ## Under 7
 - 87 Bad
 - 202 Good
+
 ## Above 7
 - 101 Bad
 - 90 Good
@@ -96,6 +110,7 @@ The results suggest that parental involvement is strongly associated with improv
 - Schools should strengthen parental engagement through regular communication, progress updates, and active collaboration between parents and teachers to support student success.
 - Development of policies such as attendance reward systems, mandatory parent-teachers follow-ups for frequent absences, and classroom participation incentives to encourage better attendance, engagement, and academic performance.
 - Learning analytics and predictive monitoring systems such as monitoring dashboard, attendance records, test scores, and classroom engagement data to identify at-risk-students early and provide timely academic support, counseling, and intervention programs to improve performance and retention.
+
 
 ## Preview
 https://github.com/emmanuelayuba246-sudo/Educational-Performance-Data-Analysis/blob/main/Dashboard.png
